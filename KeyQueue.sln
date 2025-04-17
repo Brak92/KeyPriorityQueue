@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyQueue", "KeyQueue\KeyQueue.csproj", "{79270451-633C-4B49-A798-8E72952DE58C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79270451-633C-4B49-A798-8E72952DE58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79270451-633C-4B49-A798-8E72952DE58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79270451-633C-4B49-A798-8E72952DE58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79270451-633C-4B49-A798-8E72952DE58C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0C2C246-A9F7-401F-A549-DB6E984AC8CC}
+	EndGlobalSection
+EndGlobal
