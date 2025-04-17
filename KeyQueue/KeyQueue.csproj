@@ -10,6 +10,11 @@
 		<Description>A Keyed PriorityQueue that allows you to Queue method execution based on different priorities with keys. So each key has its own priority. </Description>
 		<PackageTags>csharp;queue;priority;priorityqueue;keyqueue;keypriorityqueue</PackageTags>
 		<RepositoryUrl>https://github.com/Brak92/KeyPriorityQueue</RepositoryUrl>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
 	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="README.md" Pack="true" PackagePath="\"/>
+	</ItemGroup>
 
 </Project>
